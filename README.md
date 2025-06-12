@@ -47,3 +47,7 @@ Oferecer uma visão clara e estratégica do desempenho de vendas, auxiliando ges
 
 - Amanda Braga
 - LinkedIn([https://www.linkedin.com/in/amandadesouzabraga/])
+
+📂 Fonte dos Dados
+---
+Os dados utilizados neste projeto são fictícios, com fins exclusivamente educacionais e demonstrativos.
